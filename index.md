@@ -4,3 +4,9 @@
 
 layout: home
 ---
+
+# Welcome Friend!
+
+There is currently little to see here.
+
+The company can be contacted at [kontakt@magic-lambda.dk](mailto:kontakt@magic-lambda.dk)
