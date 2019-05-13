@@ -5,7 +5,9 @@
 layout: home
 ---
 
-## Welcome Friend.
+# Welcome Friend.
+
+## Info
 
 There is currently little to see here.
 
