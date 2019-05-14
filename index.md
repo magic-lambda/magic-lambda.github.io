@@ -3,7 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: "Welcome, Friend!"
 ---
+
+<span style="display:block;text-align:center">[Test Automation]</span>
 
 There is currently little to see here.
 
