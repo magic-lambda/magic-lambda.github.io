@@ -6,7 +6,7 @@ layout: home
 title: "Welcome, Friend!"
 ---
 
-<span style="display:block;text-align:center">[Test Automation](logo.jpg)</span>
+<center><img src="logo.jpg"></center>
 
 There is currently little to see here.
 
