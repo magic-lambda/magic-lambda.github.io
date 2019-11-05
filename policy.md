@@ -10,4 +10,4 @@ Har du spørgsmål, så tøv ikke med at kontakte os på support@tidevand.info.
 
 This app does not collect any private information and no data about app usage will be shared with 3. parties.
 
-If you have any questions the do not hesitate to contact us at support@tidevand.info.
+If you have any questions, then do not hesitate to contact us at support@tidevand.info.
